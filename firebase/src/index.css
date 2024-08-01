@@ -1,4 +1,7 @@
 body {
+  
+    background-color: #2F4F4F; /* Set background color to black */
+    color: #ffffff; /* Optional: Set default text color to white */
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

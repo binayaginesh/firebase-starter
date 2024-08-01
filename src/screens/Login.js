@@ -4,6 +4,7 @@ import { useSearchParams } from "react-router-dom";
 import AuthContainer from "../components/auth/AuthContainer";
 import Center from "../components/utils/Center";
 
+
 const tabIdToURL = {
   0: "login",
   1: "register",
